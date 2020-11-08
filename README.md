@@ -1,0 +1,1 @@
+![Architectural Diagram] (https://imgur.com/iVwSy8c)
